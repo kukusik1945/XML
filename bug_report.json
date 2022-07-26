@@ -1,1 +1,24 @@
-
+<bug_report>
+    <Bug_Name>...</Bug_Name>
+    <Bug_ID>...</Bug_ID>
+    <Area_Path>...</Area_Path>
+    <Build_Number>...</Build_Number>
+    <Severity>...</Severity>
+    <Priority>...</Priority>
+    <Assigned_to>...</Assigned_to>
+    <Reported_By>...</Reported_By>
+    <Reported_On>...</Reported_On>
+    <Reason>...</Reason>
+    <Status>...</Status>
+    <Environment>...</Environment>
+    
+    <Description>...</Description>
+    
+    <Steps_to_Reproduce>:
+        <Step1>1) ...</Step1>
+        <Step2>2) ...</Step2>
+        <Step3>3) ...</Step3>
+    </Steps_to_Reproduce>
+    
+    <Expected_Result>...</Expected_Result>
+</bug_report>
